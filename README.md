@@ -16,7 +16,7 @@ and I'm actively seeking new opportunities to apply my skills in a professional 
 - Full-time roles in Software Development, Data Analysis, or related fields
 - Opportunities to work on innovative projects and contribute to impactful solutions
 - Collaborative environments where I can continue to grow and learn
-### 💞️ I’m looking to collaborate on
+### 💞️ I’m open to collaborating on
 - Open Source Projects
 - Machine Learning Models
 - Web Development Projects
