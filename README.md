@@ -4,23 +4,25 @@ and I'm actively seeking new opportunities to apply my skills in a professional 
 
 ### 👀 I’m interested in
 - Software Development
+- Web Development
 - Machine Learning
 - Data Analysis
-- Web Development
+  
 ### 🌱 I’m currently learning
-- Advanced Machine Learning Techniques
 - Full-Stack Web Development
 - Cloud Computing (AWS, Azure)
 
 ### 💼 I’m looking for
-- Full-time roles in Software Development, Data Analysis, or related fields
+- Full-time roles in Full Stack Softare Development
 - Opportunities to work on innovative projects and contribute to impactful solutions
 - Collaborative environments where I can continue to grow and learn
+  
 ### 💞️ I’m open to collaborating on
 - Open Source Projects
-- Machine Learning Models
 - Web Development Projects
 - Software Engineering Solutions
+- Machine Learning Models
+  
 ### 📫 How to reach me
 Email: asimadahal@outlook.com
 LinkedIn: linkedin.com/in/asimdahal
