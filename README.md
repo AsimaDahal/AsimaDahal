@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Asim Dahal
-I’m a recent graduate from Virginia Tech with a B.S. in Computer Engineering. I have a solid foundation in software engineering, backed by diverse academic projects and internships, 
+I’m a graduate from Virginia Tech with a B.S. in Computer Engineering. I am currently working as a full stack developer and IT speacilist for COC consultants. I have a solid foundation in software engineering, backed by diverse academic projects and internships, 
 and I'm actively seeking new opportunities to apply my skills in a professional setting.
 
 ### 👀 I’m interested in
