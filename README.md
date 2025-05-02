@@ -11,6 +11,7 @@ and I'm actively seeking new opportunities to apply my skills in a professional 
 ### 🌱 I’m currently learning
 - Full-Stack Web Development
 - Cloud Computing (AWS, Azure)
+- Software Systems
 
 ### 💼 I’m looking for
 - Full-time roles in Full Stack Softare Development
